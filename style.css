@@ -1,0 +1,41 @@
+*{
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+h1{
+ 
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+    top: 300px;
+}
+
+h2{
+    text-align: center;
+    font-size: 90px;
+    position: relative;
+    top: 300px;
+}
+
+button{
+    width: 200px;
+    padding: 10px;
+    background-color: red;
+    position: relative;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.button-center{
+    position: relative;
+    text-align: center;
+    top: 300px;
+}
+
+p {
+    position: relative;
+    top: 300px;
+    font-size: 17px;
+}
